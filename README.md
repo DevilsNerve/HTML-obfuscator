@@ -61,7 +61,9 @@ Please note that this tool should not be used for securing sensitive data as the
 
 This was all written in response to: https://stackoverflow.com/questions/32819322/javascript-obfuscation-algorithm
 
-Response on stack overflow: Hello Matt Watkins,
+Response on stack overflow:
+
+Hello Matt Watkins,
 
 You are looking at an obfuscation algorithm that is based on converting characters into their numerical representation and storing them as integers in an array. The code you posted is decrypting this data and converting it back into a readable string. Here's how it works:
 
